@@ -7,8 +7,8 @@ Installation used to be very easy but the original CraptEV1 / Crapto1 source pac
 because redistribution of CraptEV1 is not allowed by its license.
 
 ```bash
-# wget http://crapto1.netgarage.org/craptev1-v1.1.tar.xz
-# wget http://crapto1.netgarage.org/crapto1-v3.3.tar.xz
+# wget http://www2.vaneay.fr/mifare/craptev1-v1.1.tar.xz
+# wget http://www2.vaneay.fr/mifare/crapto1-v3.3.tar.xz
 ./miLazyCrackerFreshInstall.sh
 ```
 
